@@ -1,0 +1,12 @@
+undetected_chromedriver==3.5.5
+selenium_stealth==1.0.6
+selenium==4.26.1
+selenium-wire==5.1.0
+blinker==1.7.0
+requests==2.32.3
+urllib3==2.2.3
+
+
+Chrome Setup:
+C:/ -> Programme (x86) -> Google -> Updates Ordner löschen und in Google Updater "update.exe" löschen
+in Chrome Einstellungen -> System -> Apps im Hintergrund ausführen, wenn Google Chrome geschlossen ist -> auf aus
